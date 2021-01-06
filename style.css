@@ -1,0 +1,129 @@
+body {font-family: 'Roboto', sans-serif;
+    margin: 20;
+    padding: 10;
+
+}
+.text-color{
+    color: indigo;
+    font-size: 90px;
+}
+.text-color-new{
+    color: lightcoral;
+    font-size: 85px;
+}
+p{
+    color: rgb(18, 19, 19);
+    font-size: medium;
+    
+    
+}
+.first-section{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 150px;
+}
+.first-section img{width: 100%;}
+.background{
+    background-image: url(image/header-bg.png);
+    background-repeat: no-repeat;
+}
+.button{
+    text-decoration: none;
+    background-color: rgb(118, 46, 212);
+    padding: 10px 10px;
+    border-radius: 5px;
+    color: rgb(235, 232, 227);
+    font-weight: 550;}
+    
+    
+    .about{
+        background-image: url(image/latest-work-bg.png);
+        background-repeat: no-repeat;
+        background-position: right;
+    }
+    .latest{
+        background-image: url(image/latest-work-bg.png);
+        background-repeat: no-repeat;
+        background-position: right;
+        text-align: center;
+        float:left;
+    }
+    #project{color: tomato;}
+    .image{
+        width: 15%;
+    }
+    
+    .image-1 {
+        float: left;
+        width: 23%;
+        padding: 1%;
+        box-shadow: 10px 10px 40px darkslategray;
+        border-radius: 10px;
+        height: 20%;
+        text-align: center;
+        background-color: wheat;
+        
+        margin: 65px;
+        margin-top: 10px;
+    }
+     *{
+         box-sizing: border-box;
+     }
+   #pro{
+      color: aqua; 
+   }  
+   .image-2 {
+    float: left;
+    width: 23%;
+    padding: 1%;
+    box-shadow: 10px 10px 40px darkslategray;
+    border-radius: 10px;
+    height: 5%;
+    text-align: center;
+    background-color: wheat;
+    
+    margin: 65px;
+    margin-top: 10px;
+}
+.image-2 img{
+    height: 190px;
+}   
+.work img{ 
+    width: 30%;
+    
+}
+.work-image{
+    background-image: url(image/work.png);
+    width: 60%;
+    height: 20%;
+    background-size: cover;
+    position: absolute;
+    
+}
+.inquiry{
+color: white;
+font-size: 20px;
+
+
+}
+.text{
+    text-align: left;
+    padding-left: 60px;
+    
+}
+.clear{
+    clear: both;
+}
+.te{text-decoration: none;
+    background-color: rgb(118, 46, 212);
+    padding: 2%;
+    border-radius: 10px;
+    color: rgb(235, 232, 227);
+    font-weight: 550;
+    text-align: end;
+
+    
+
+}

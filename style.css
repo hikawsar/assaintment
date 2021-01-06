@@ -99,8 +99,10 @@ p{
     width: 60%;
     height: 20%;
     background-size: cover;
-    position: absolute;
-    padding-bottom: 50px;
+    position: 550px;
+    padding-bottom: 80px;
+    margin-left: 20%;
+    
     
 }
 .inquiry{
